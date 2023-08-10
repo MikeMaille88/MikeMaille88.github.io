@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css?family=Lugrasimo');
+
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: Lugrasimo ,sans-serif;
+}
+
+.Home{
+    background-color: black;
+    background-image: url(./Images/Moria.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+
+.header{
+    background-color: black;
+    height: 80px;
+}
+
+h1{
+    color : white;
+    text-align: center;
+}
+
+h2{
+    color : white;
+    text-align: center;
+}
+
+p{
+    margin: 50px auto 20px auto;
+    width: 150px;
+    background-color: rgb(57 57 57 / 0.75);
+    color : white;
+    text-align: center;
+    font-size: larger;
+}
+
+#grid-code{
+    margin-top: 20px;
+    margin-left: 40%;
+    display: grid;
+    grid-template-columns: repeat(4, calc(20vw/4));
+    grid-template-rows: repeat(1, calc(5vh));
+}
+
+#grid-code >img{
+    display: flex;
+    position: relative;
+    margin: auto;
+    width: 45px;
+    height: 45px;
+}
+
+#grid-propose{
+    margin-top: 20px;
+    margin-left: 40%;
+    display: grid;
+    grid-template-columns: repeat(4, calc(20vw/4));
+    grid-template-rows: repeat(1, calc(5vh));
+}
+
+#grid-propose >img{
+    display: flex;
+    position: relative;
+    margin: auto;
+    width: 45px;
+    height: 45px;
+}
+
+#button{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.grid-guesses{
+    margin-top: 20px;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+}
+
+#grid-check_left{
+    margin-top: 40px;
+    display: grid;
+    grid-template-columns: repeat(4, calc(10vw/4));
+    grid-template-rows: repeat(6, calc(50vh/6));
+}
+
+#grid-check_left>img{
+    display: flex;
+    position: relative;
+    margin: auto;
+    width: 30px;
+    height: 30px;
+}
+
+#grid-check_right{
+    margin-top: 40px;
+    display: grid;
+    grid-template-columns: repeat(4, calc(10vw/4));
+    grid-template-rows: repeat(6, calc(50vh/6));
+}
+
+#grid-check_right>img{
+    display: flex;
+    position: relative;
+    margin: auto;
+    width: 30px;
+    height: 30px;
+}
+
+#grid-guesses_left-parent {
+    display: flex;
+    justify-content: center;
+}
+
+#grid-guesses_left{
+    position: relative;
+    padding: 40px;
+    display: grid;
+    grid-template-columns: repeat(4, calc(30vw/4));
+    grid-template-rows: repeat(6, calc(50vh/6));
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+}
+
+#grid-guesses_left >img{
+    display: flex;
+    position: relative;
+    margin: auto;
+    width: 60px;
+    height: 60px;
+}
+
+#grid-guesses_right-parent {
+    display: flex;
+    justify-content: center;
+}
+
+#grid-guesses_right{
+    position: relative;
+    padding: 40px;
+    display: grid;
+    grid-template-columns: repeat(4, calc(30vw/4));
+    grid-template-rows: repeat(6, calc(50vh/6));
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+}
+
+#grid-guesses_right >img{
+    display: flex;
+    position: relative;
+    margin: auto;
+    width: 60px;
+    height: 60px;
+}
