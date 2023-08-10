@@ -97,8 +97,9 @@
         </div>
 
         <div id="Donut">        
-            <img src="./Images/Donut.png"  alt="Image Donut"  class="mouseover" name="Donut" onclick="JouerSon()">          
-            <div class="info-bulle hide"></div> 
+            <img src="./Images/Donut.png"  alt="Image Donut"  class="mouseover" name="Donut" onclick="JouerSon()">
+            <audio controls autoplay="false" id="audio-player" src="./Images/wouh-pinaise.mp3" style="display:none"></audio>          
+            <!-- <div class="info-bulle hide"></div> --> 
         </div>
         
     </div>
@@ -111,14 +112,12 @@
     })
 </script>
 
-<audio autoplay="false" id="Donut" src="./Images/wouh-pinaise.mp3">
-</audio>
-<!-- <script>
+<script>
     function JouerSon() {
-            var sound = document.getElementById("Donut");
+            var sound = document.getElementById("audio-player");
             sound.play();
         }
-</script> -->
+</script>
     
 </body>
 
