@@ -14,6 +14,6 @@ console.log(profiles)
 
 profiles.forEach((element)=>{
     element.addEventListener("click",()=>{
-        window.location = `Planets.html?id=${element.firstElementChild.name}`
+        window.location = `https://mikemaille88.github.io/StarTours/Planets.html?id=${element.firstElementChild.name}`
     })
 })

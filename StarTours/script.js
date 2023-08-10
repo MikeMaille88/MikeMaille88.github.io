@@ -32,7 +32,7 @@ let planetId;
 imageList.forEach((image) =>
   image.addEventListener("click", (event) => {
     if (event.target.name !== 'Donut')
-    window.location = `Planets.html?id=${event.target.name}`;
+    window.location = `https://mikemaille88.github.io/StarTours/Planets.html?id=${event.target.name}`;
   })
 );
 let infoBulleList = document.querySelectorAll(".grid-images > div > div");
