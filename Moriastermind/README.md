@@ -10,7 +10,7 @@ Ce projet était à la base un exercice pour coder le jeu en JavaScript mais n'a
 ---------------------------------------------------------------------------------------
 
 
-Used Stack: HTML/CSS/JS
+>Used Stack: HTML/CSS/JS
 
 A simple Mastermind game with a Lord of the Rings theme.
 
