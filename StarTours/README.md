@@ -1,3 +1,7 @@
+>Lien / Link : https://mikemaille88.github.io/StarTours/
+
+>Stack: HTML/CSS/JS, public API SWAPI
+
 # Introduction
 
 Ce projet a pour objectif de développer une application web qui permette de visualiser des données de façon dynamique. Ce principe peut être pris de manière très large : ainsi, il peut s’agir de construire une page web affichant un graphique « classique » reflétant l’évolution de telle ou telle donnée. Mais il peut aussi s’agir de créer une animation mettant en scène des données de façon plus originale ou ludique (voir plus bas dans les idées proposées).
