@@ -1,6 +1,9 @@
 # Moriastermind
 
+>Lien vers la page: https://mikemaille88.github.io/Moriastermind/
+
 >Stack utilisée: HTML/CSS/JS
+
 
 Un simple jeu de Mastermind thématisé Seigneur des Anneaux. 
 
@@ -10,7 +13,10 @@ Ce projet était à la base un exercice pour coder le jeu en JavaScript mais n'a
 ---------------------------------------------------------------------------------------
 
 
+>Link to web page: https://mikemaille88.github.io/Moriastermind/
+
 >Used Stack: HTML/CSS/JS
+
 
 A simple Mastermind game with a Lord of the Rings theme.
 
