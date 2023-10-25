@@ -1,6 +1,27 @@
->Lien / Link : https://mikemaille88.github.io/StarTours/
+>Lien: https://mikemaille88.github.io/StarTours/
 
 >Stack: HTML/CSS/JS, public API SWAPI
+
+
+Projet de deux semaines en commun avec 3 autres personnes pour découvrir les API. 
+
+L'idée était de créer le site web de l'agence Star Tours, telle qu'imaginée à Disneyland. Les visiteurs peuvent donc voir quelle(s) planète(s) ils souhaitent visiter et les caractéristiques de chacune grâce à un visuel et des données récupérées depuis deux sources croisées, une API publique nommée SWAPI et un fichier JSON local qui contient les informations qui ne sont pas disponibles par SWAPI.
+
+
+-----------------------------------------------------------------------------------
+
+
+>Link : https://mikemaille88.github.io/StarTours/
+
+>Stack: HTML/CSS/JS, public API SWAPI
+ 
+Two weeks project with 3 other people to discover APIs
+
+The idea was to create the Star Tours (as imagined in Disneyland)  travel agency website. Guests can see which planet(s) they want to go to and each world features with images and data fetched from two sources, a public API named SWAPI and a local JSON file which contains data not available from SWAPI.
+
+
+-----------------------------------------------------------------------------------
+
 
 # Introduction
 
