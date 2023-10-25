@@ -1,3 +1,28 @@
+>Lien: https://mikemaille88.github.io/StarTours/
+
+>Stack: HTML/CSS/JS, public API SWAPI
+
+
+Projet de deux semaines en commun avec 3 autres personnes pour découvrir les API. 
+
+L'idée était de créer le site web de l'agence Star Tours, telle qu'imaginée à Disneyland. Les visiteurs peuvent donc voir quelle(s) planète(s) ils souhaitent visiter et les caractéristiques de chacune grâce à un visuel et des données récupérées depuis deux sources croisées, une API publique nommée SWAPI et un fichier JSON local qui contient les informations qui ne sont pas disponibles par SWAPI.
+
+
+-----------------------------------------------------------------------------------
+
+
+>Link : https://mikemaille88.github.io/StarTours/
+
+>Stack: HTML/CSS/JS, public API SWAPI
+ 
+Two weeks project with 3 other people to discover APIs
+
+The idea was to create the Star Tours (as imagined in Disneyland)  travel agency website. Guests can see which planet(s) they want to go to and each world features with images and data fetched from two sources, a public API named SWAPI and a local JSON file which contains data not available from SWAPI.
+
+
+-----------------------------------------------------------------------------------
+
+
 # Introduction
 
 Ce projet a pour objectif de développer une application web qui permette de visualiser des données de façon dynamique. Ce principe peut être pris de manière très large : ainsi, il peut s’agir de construire une page web affichant un graphique « classique » reflétant l’évolution de telle ou telle donnée. Mais il peut aussi s’agir de créer une animation mettant en scène des données de façon plus originale ou ludique (voir plus bas dans les idées proposées).
